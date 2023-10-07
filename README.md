@@ -1,5 +1,7 @@
-git checkout -b# practica-git-edi
-Practica para la materia Edi de la Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones
+
+# practica-git-edi
+Practica para la materia Edi de TECDA
+Esta practica fue realizada en el contexto de la entrega de un trabajo final para la materia EDI
 
 User@DESKTOP-KISTPOB MINGW64 ~/Desktop
 $ git clone https://github.com/florencialarreategui/practica-git-edi.git
