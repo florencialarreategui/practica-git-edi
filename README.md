@@ -1,4 +1,6 @@
+
 # practica-git-edi
+
 # Cambios en el readme para edi
 ## Tambien cambios pero en letra mas chiquita 
 
@@ -63,3 +65,5 @@ Date:   Sat Oct 7 13:17:56 2023 -0300
 (END)
 
 
+
+trabajo de edi - práctica final
