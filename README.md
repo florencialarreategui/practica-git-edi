@@ -1,6 +1,7 @@
 # practica-git-edi
 Practica para la materia Edi de TECDA
 Esta practica fue realizada en el contexto de la entrega de un trabajo final para la materia EDI
+
 User@DESKTOP-KISTPOB MINGW64 ~/Desktop
 $ git clone https://github.com/florencialarreategui/practica-git-edi.git
 Cloning into 'practica-git-edi'...
@@ -15,6 +16,7 @@ Author: LauraAlvarezZunino <lauraalvarezzunino@gmail.com>
 Date:   Sat Oct 7 15:25:31 2023 -0300
 
     modifique el readme
+
 
 commit 0e998be4171eb95c9c794c332ee9fdc31e27a052 (origin/main, origin/HEAD, main)
 Merge: 1a1dc0f a063866
@@ -67,3 +69,4 @@ Date:   Sat Oct 7 13:17:56 2023 -0300
 
     Initial commit
 (END)
+
