@@ -1,6 +1,5 @@
 # practica-git-edi
-Practica para la materia Edi de TECDA
-Esta practica fue realizada en el contexto de la entrega de un trabajo final para la materia EDI
+
 
 User@DESKTOP-KISTPOB MINGW64 ~/Desktop
 $ git clone https://github.com/florencialarreategui/practica-git-edi.git
@@ -66,6 +65,11 @@ Date:   Sat Oct 7 13:41:13 2023 -0300
 commit be375686b8db89c380800c40d91b0daaa482487e
 Author: Florencia Larreategui <75865308+florencialarreategui@users.noreply.github.com>
 Date:   Sat Oct 7 13:17:56 2023 -0300
+
+# Cambios en el readme para edi
+## Tambien cambios pero en letra mas chiquita 
+
+
 
     Initial commit
 (END)
