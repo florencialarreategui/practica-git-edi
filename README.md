@@ -1,6 +1,8 @@
+
 # practica-git-edi
 Practica para la materia Edi de TECDA
 Esta practica fue realizada en el contexto de la entrega de un trabajo final para la materia EDI
+
 User@DESKTOP-KISTPOB MINGW64 ~/Desktop
 $ git clone https://github.com/florencialarreategui/practica-git-edi.git
 Cloning into 'practica-git-edi'...
@@ -11,3 +13,4 @@ remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (3/3), done.
 
 
+trabajo de edi - práctica final
